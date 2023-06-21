@@ -1,3 +1,8 @@
+# reactプロジェクト作成方法
+```
+npx create-react-app react-todo --template typescript --use-npm
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
